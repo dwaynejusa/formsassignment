@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2, h3, h5 {
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+form {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    margin-right: 5px;
+    padding: 5px 10px;
+}
